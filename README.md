@@ -26,7 +26,9 @@
 Общий коллаб с вышеперчисленными программами, дополненными командой **DS**
 <a href="https://colab.research.google.com/drive/1uw7_z9-jqFSFLXDW3cgM7lww_SLrF4l4#scrollTo=u-JxHWn_xmLw&uniqifier=1"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>.
 
-Содержит повышение качества/GPEN 
+**Содержит**:
+
+повышение качества/GPEN 
 
 Сравнение лиц/face_recogniton
 
