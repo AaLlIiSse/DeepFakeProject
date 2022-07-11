@@ -13,7 +13,7 @@
 
 SimSwap - программа, позволяющая по фотографии считать маску лица и налшожить на видеоролик. 
 Приимер:
-<img src="(https://user-images.githubusercontent.com/92042521/178326173-0a4b52ba-8324-4e8a-a826-c016a4ef0cdd.png)">
+<img src="https://user-images.githubusercontent.com/92042521/178326173-0a4b52ba-8324-4e8a-a826-c016a4ef0cdd.png">
 
 
 
