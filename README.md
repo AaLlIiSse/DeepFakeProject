@@ -9,5 +9,5 @@
 
 <img src="https://user-images.githubusercontent.com/92042521/178322303-f7237688-a359-406e-84da-a48318450eeb.jpg" width="800" height="800">
 
-Ccылка на коллаб: https://colab.research.google.com/drive/1fPUsJCpQipp2Z5B5GbEXqpBGsMp-nvjm?usp=sharing
-<button> Кнопка </button>
+The Colab demo for GPEN is available now <a href="https://colab.research.google.com/drive/1fPUsJCpQipp2Z5B5GbEXqpBGsMp-nvjm?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>.
+
