@@ -7,5 +7,4 @@
 В ветке DE можно найти папку с GPEN, SimSwap.
 Примеры работы SimSwap на одной студентке:
 
-![image](https://user-images.githubusercontent.com/92042521/178322303-f7237688-a359-406e-84da-a48318450eeb.jpg)
 <img src="https://user-images.githubusercontent.com/92042521/178322303-f7237688-a359-406e-84da-a48318450eeb.jpg" width="800" height="800">
