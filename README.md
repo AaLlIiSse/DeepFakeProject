@@ -11,7 +11,7 @@
 
 Наш коллаб (рабочий) GPEN <a href="https://colab.research.google.com/drive/1fPUsJCpQipp2Z5B5GbEXqpBGsMp-nvjm?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>.
 
-## SimSwap - программа, позволяющая по фотографии считать маску лица и налшожить на видеоролик. 
+## SimSwap - программа, позволяющая по фотографии считать маску лица и наложить на видеоролик. 
 Приимер:
 
 ![image](https://user-images.githubusercontent.com/92042521/178327206-e002ee55-236e-45ef-bc88-c06fd1c6931d.png)
