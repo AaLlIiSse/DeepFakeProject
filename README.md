@@ -7,3 +7,4 @@
 Для этого нужно решить задачу по FaceSwap.
 Было создано 4 команды: съёмочная группа, data engineering, data science и группа продвижения проекта.
 ...
+![image](https://user-images.githubusercontent.com/92042521/178320507-52f0511b-8508-41f6-95f3-ee8beef4b1da.png)
